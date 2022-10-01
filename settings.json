@@ -3,11 +3,11 @@
   "defaulttheme": "default",
   "website": {
     "port": 8000,
-    "secret": "Iubire80@"
+    "secret": "Change PW here"
   },
   "pterodactyl": {
     "domain": "https://panel.ventix.cloud",
-    "key": "ptla_TyE0unCQKCgk5vOAX5dBb58PynAORqQZuwuagmn4iE2"
+    "key": "change stuff here"
   },
   "linkvertise": {
     "userid": 506285,
@@ -32,7 +32,7 @@
         ]
       },
       "bot": {
-        "token": "MTAyMzYwMzQ3MDk5MDg0MzkzNg.GT5mrX.DxizVy6QQxtpHxOnXJhANW5uxf_LulutwTdfXw",
+        "token": "change",
         "joinguild": {
           "_comment": "The Discord bot must be in these servers and have invite permissions.",
           "enabled": true,
